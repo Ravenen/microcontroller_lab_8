@@ -1,0 +1,57 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>D:\Microcontroller Projects\lab 8\code\code\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Programms\Microchip Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>D:\Programms\Microchip Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Programms\Microchip Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Microcontroller Projects\lab 8\code\code\Debug\code.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>code.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>code.map</FILE>
+  <FILE>code.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>158</LINE></reset>
+  <TIMER3_COMPA><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>41</LINE></TIMER3_COMPA>
+  <check_first_algo><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>43</LINE></check_first_algo>
+  <run_first_algo><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>56</LINE></run_first_algo>
+  <check_second_algo><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>48</LINE></check_second_algo>
+  <run_second_algo><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>78</LINE></run_second_algo>
+  <timer_end><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>51</LINE></timer_end>
+  <algo_1_step_2><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>100</LINE></algo_1_step_2>
+  <algo_1_step_3><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>103</LINE></algo_1_step_3>
+  <algo_1_step_4><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>106</LINE></algo_1_step_4>
+  <algo_1_step_5><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>109</LINE></algo_1_step_5>
+  <algo_1_step_6><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>112</LINE></algo_1_step_6>
+  <algo_1_step_7><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>115</LINE></algo_1_step_7>
+  <algo_1_step_8><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>118</LINE></algo_1_step_8>
+  <algo_1_step_clear><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>121</LINE></algo_1_step_clear>
+  <algo_1_step_end><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>124</LINE></algo_1_step_end>
+  <algo_2_step_2><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>129</LINE></algo_2_step_2>
+  <algo_2_step_3><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>132</LINE></algo_2_step_3>
+  <algo_2_step_4><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>135</LINE></algo_2_step_4>
+  <algo_2_step_5><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>138</LINE></algo_2_step_5>
+  <algo_2_step_6><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>141</LINE></algo_2_step_6>
+  <algo_2_step_7><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>144</LINE></algo_2_step_7>
+  <algo_2_step_8><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>147</LINE></algo_2_step_8>
+  <algo_2_step_clear><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>150</LINE></algo_2_step_clear>
+  <algo_2_step_end><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>153</LINE></algo_2_step_end>
+  <main><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>208</LINE></main>
+  <first_btn><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>220</LINE></first_btn>
+  <second_btn><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>228</LINE></second_btn>
+  <sound_buzzer><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>236</LINE></sound_buzzer>
+  <delay200ms><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>243</LINE></delay200ms>
+  <delay><FILE>D:\Microcontroller Projects\lab 8\code\code\main.asm</FILE><LINE>247</LINE></delay>
+ </LABELS>
+</ASSEMBLER_INFO>
